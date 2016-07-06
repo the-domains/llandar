@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Randall Cleveland]]></title>
-        <description><![CDATA[Randall Cleveland]]></description>
+        <title><![CDATA[This thing I always forget.]]></title>
+        <description><![CDATA[This thing I always forget.]]></description>
         <link>https://thegrid.ai/llandar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 22:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 22:57:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/llandar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[I shaved. ]]></title>
+            <description><![CDATA[<article><h1>I shaved. </h1><p>I'm hideous. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a5c71062fdcb3e5139d6e9f36de05c55/croprotate.jpg?cropheight=1280&cropwidth=960&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5e3e24e8-b0af-4193-a244-553d471979ed.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e3e24e8-b0af-4193-a244-553d471979ed.jpg</link>
+            <guid isPermaLink="false">b9a3916d-dcb7-44ed-ba13-000331d08536</guid>
+            <pubDate>Wed, 06 Jul 2016 22:57:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tonight, Tonight!]]></title>
-            <description><![CDATA[<article><h1>Tonight, Tonight!</h1><p>Babyfin will be previewing material from our upcoming show, Dead & Breakfast! Come see some comedy tonight, then come see our full show Saturday at 7!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bef329a2dc738ebaed3b9c7a312298f7e3185d4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tonight, Tonight!</h1><p>Babyfin will be previewing material from our upcoming show, Dead & Breakfast! Come see some comedy tonight, then come see our full show Saturday at 7!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ffddb1d2f6508ddedcade079cc8254749a053d3.jpg"></article>]]></description>
             <link>https://thegrid.ai/llandar/tonight-tonight/index.html</link>
             <guid isPermaLink="false">dc0bcff2-2d56-4852-b2e0-e8ad5d35aae7</guid>
             <pubDate>Thu, 11 Feb 2016 22:12:40 GMT</pubDate>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[CAGEMATCH! ]]></title>
-            <description><![CDATA[<article><h1>CAGEMATCH! </h1><p>I had such a blast putting on this show. My pal Cory Guebels spent January coaching up two brand new improv teams. Then we pitted them against each other in a Battle Royale where the audience voted for their favorite. Let the record show our first ever Cagematch champion is Tangletown. They get to defend their title next month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c48078fa612cc210faa6552a4202d0466f34bac9.png"></article>]]></description>
+            <description><![CDATA[<article><h1>CAGEMATCH! </h1><p>I had such a blast putting on this show. My pal Cory Guebels spent January coaching up two brand new improv teams. Then we pitted them against each other in a Battle Royale where the audience voted for their favorite. Let the record show our first ever Cagematch champion is Tangletown. They get to defend their title next month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c467cfde8ad21b3940447440c416b170b13678c2.png"></article>]]></description>
             <link>urn:uuid:4fffe2fe-0abe-4e1d-a458-c33de8fef70e</link>
             <guid isPermaLink="false">98699bad-8060-41db-9a44-d508195f55ca</guid>
             <pubDate>Tue, 02 Feb 2016 00:13:32 GMT</pubDate>

@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: The other
+    url: 'http://randallcleveland.com'
+    type: external
 favicon: null
 title: This thing I always forget.
 description: Diary of a bearded weirdo
